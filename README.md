@@ -1,6 +1,9 @@
 # tauri-app
-## 启动方法和环境配置
-  - pnpm add -D @tauri-apps/cli
+
+## 先决条件
+
+## 启动方法
   - pnpm i
-  - pnpm tauri init 
+  - pnpm add -D @tauri-apps/cli
+  - pnpm tauri init
   - pnpm tauri dev
