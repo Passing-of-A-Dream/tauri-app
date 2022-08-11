@@ -12,3 +12,7 @@
   - pnpm add -D @tauri-apps/cli
   - pnpm tauri init
   - pnpm tauri dev
+
+## 效果图
+
+![image](https://user-images.githubusercontent.com/80303513/184090506-e87dc259-4e16-4dae-85fd-49e8b0a2bb54.png)
